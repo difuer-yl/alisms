@@ -1,8 +1,5 @@
 <?php
 error_reporting(0);//关闭错误报告
-//18225235371
-$info=alisms('15723341018','LTAIuxa9V2U7STw4','qRTszjwqihKcYiRBUqqwfb8jQA6Heg','酋长小枪','SMS_96520017',['code'=>1234]);
-var_dump($info);
 /**
 *
 *$phon 电话号码
